@@ -109,7 +109,9 @@ input, select, textarea {
 		a:hover {
 			text-decoration: none;
 		}
-
+        a:visited {
+            color: white;
+        }
 	section > :last-child,
 	section:last-child,
 	.last-child {
