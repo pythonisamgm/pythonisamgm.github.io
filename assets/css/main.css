@@ -103,6 +103,7 @@ input, select, textarea {
 	}
 
 	a {
+	color: #0f4c81;
 		text-decoration: underline;
 	}
 
@@ -110,7 +111,7 @@ input, select, textarea {
 			text-decoration: none;
 		}
         a:visited {
-            color: white;
+            color: #0f4c81;
         }
 	section > :last-child,
 	section:last-child,
