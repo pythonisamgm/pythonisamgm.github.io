@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	a {
-	color: #2AC9D2;
+	color: white;
 		text-decoration: underline;
 	}
 
@@ -111,7 +111,7 @@ input, select, textarea {
 			text-decoration: none;
 		}
         a:visited {
-            color: #2AC9D2;
+            color: white;
         }
 	section > :last-child,
 	section:last-child,
@@ -1632,7 +1632,7 @@ input, select, textarea {
 		}
 
 		#content a {
-			color: #ED391B;
+			color: #2AC9D2;
 		}
 
 		#content header {
